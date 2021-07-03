@@ -2,5 +2,5 @@ GET http://localhost:3000/
 
 
 ###
-https://swapi.dev/api/species/
+GET https://swapi.dev/api/species/
 
